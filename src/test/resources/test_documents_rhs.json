@@ -1,0 +1,109 @@
+[
+  {
+    "id": "D",
+    "color": "blue",
+    "category": "hue",
+    "type": "primary#2",
+    "code": {
+      "rgba": [
+        23,
+        0,
+        255,
+        1
+      ],
+      "hex": "#00F"
+    },
+    "intensity": 99.52,
+    "opacity": 7.9,
+    "gradient": 1.91
+  },
+  {
+    "id": "F",
+    "color": "green",
+    "category": "hue#2",
+    "type": "secondary",
+    "code": {
+      "rgba": [
+        0,
+        255,
+        10,
+        1
+      ],
+      "hex": "#0FA"
+    },
+    "intensity": 49.8,
+    "opacity": -3.98,
+    "gradient": 0.63
+  },
+  {
+    "id": "C",
+    "color": "red",
+    "category": "hue",
+    "type": "primary",
+    "code": {
+      "rgba": [
+        255,
+        0,
+        0,
+        1
+      ],
+      "hex": "#DF0C"
+    },
+    "intensity": 16.31,
+    "opacity": 7.7,
+    "gradient": -0.8
+  },
+  {
+    "id": "A",
+    "color": "black",
+    "category": "hue",
+    "type": "primary",
+    "code": {
+      "rgba": [
+        255,
+        255,
+        255,
+        1
+      ],
+      "hex": "#00D0"
+    },
+    "intensity": 9.61,
+    "opacity": 12.3,
+    "gradient": -1.9
+  },
+  {
+    "id": "B",
+    "color": "white",
+    "category": "value",
+    "code": {
+      "rgba": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "hex": "#FFF"
+    },
+    "intensity": 36.5,
+    "opacity": 14.5,
+    "gradient": 2.5
+  },
+  {
+    "id": "E",
+    "color": "yellow#2",
+    "category": "hue",
+    "type": "primary",
+    "code": {
+      "rgba": [
+        255,
+        250,
+        10,
+        123
+      ],
+      "hex": "#FF0"
+    },
+    "intensity": 30.8,
+    "opacity": 2.15,
+    "gradient": 1.00
+  }
+]
