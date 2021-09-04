@@ -39,7 +39,6 @@ public class Document implements AttributeValue, IdAware {
         return this.id;
     }
 
-    @Nonnull
     @Override
     public MatchMode matchMode() {
         return null;

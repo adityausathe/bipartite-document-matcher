@@ -18,7 +18,6 @@ public class ArrayValue implements AttributeValue {
         this.elements = elements;
     }
 
-    @Nonnull
     @Override
     public MatchMode matchMode() {
         return null;
