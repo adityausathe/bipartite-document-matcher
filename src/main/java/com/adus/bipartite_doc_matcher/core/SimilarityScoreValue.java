@@ -17,8 +17,6 @@ public class SimilarityScoreValue {
     }
 
     public float normalizeAndGet(BigDecimal normalizationFactor) {
-        // collapse two distinct similarity scores into one
-        // = (hashSimilarity + (1 - normDifference/normalizationFactor))/2
         return hashSimilarity.add(
                 BigDecimal.ONE.subtract(normDifference
                         .divide(normalizationFactor, DIVISION_SCALE, RoundingMode.HALF_UP))
